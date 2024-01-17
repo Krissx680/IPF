@@ -4,3 +4,6 @@ Izveidot python scriptu, kurš atrod visus IPF(Inernational Powerlifint Federati
 Lai iegūtu nepieciešamo informāciju izmantoju IPF CSV failu (https://openpowerlifting.gitlab.io/opl-csv/bulk-csv.html) openipf-latest.zip
 
 Es arī gribu lai excel failā tiktu filtrēts vecums no jaunākā uz vecāko.
+
+Python kods tika rakstīts Visual Code
+Kristaps Upāns 221RDB362
